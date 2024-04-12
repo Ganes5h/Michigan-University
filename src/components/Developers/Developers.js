@@ -68,7 +68,7 @@ import { useEffect } from "react";
 const developersData = [
   {
     name: "Avinash Pauskar",
-    role: "Android Developer",
+    role: "Java Developer",
     imageSrc:
       "https://media.licdn.com/dms/image/D5603AQHyyP-uxLPmzg/profile-displayphoto-shrink_800_800/0/1680338891338?e=1710979200&v=beta&t=-qxrLZp1o9omWQt817IRZArC8xBkgZjfEwmDhx4cSbw",
     linkedinProfile: "https://www.linkedin.com/in/avinash-pauskar-00b597244/",
